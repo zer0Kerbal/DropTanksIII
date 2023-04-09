@@ -71,7 +71,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Dependencies
 
-* [Kerbal Hacks Ltd(KH/L)][KHL]
+* [Kerbal Hacks Limited (KHL)][KHL]
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][SHD:ksp]][KSP:url]
 
 ### Suggests
