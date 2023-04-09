@@ -23,11 +23,10 @@ jobs:
       - uses: actions/checkout@main
 
 # Runs a single command using the runners shell
-      - uses: DaanV2/Markdown-Action-Create-Indexes@main
+      - uses: DaanV2/Markdown-Action-Create-Indexes@latest
         with: 
           folder: ${{github.workspace}}/docs/
           filename: index.md
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
         continue-on-error: true
