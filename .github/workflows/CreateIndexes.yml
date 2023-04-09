@@ -23,7 +23,7 @@ jobs:
       - uses: actions/checkout@main
 
 # Runs a single command using the runners shell
-      - uses: DaanV2/Markdown-Action-Create-Indexes@latest
+      - uses: DaanV2/Markdown-Action-Create-Indexes@main
         with: 
           folder: ${{github.workspace}}/docs/
           filename: index.md
