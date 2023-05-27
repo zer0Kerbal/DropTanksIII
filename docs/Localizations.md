@@ -4,25 +4,30 @@ title: Localizations
 description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- Localizations.md v1.1.7.0
+<!-- Localizations.md v1.0.0.0
 Drop Tanks III (DTIII)
+created: 27 May 2023
+updated: 
+
+TEMPLATE: Localizations.md v1.1.9.0
 created: 01 Feb 2022
-updated: 03 Jun 2022 -->
+updated: 24 Mar 2023
+
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <div class="fa-3x">
   <i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
 </div>
 
-# Drop Tanks III (DTIII)
+# [Drop Tanks III (DTIII)][mod]
 
 [Home](./index.md)
 
 has been translated into the following languages:
 
 * ![English][EN] English <us-en.cfg>
-* ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg> thank you to @renejant (*bedankt!*)
+* ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg> *bedankt!* [renejant](https://github.com/renejant)
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
@@ -67,4 +72,9 @@ __These localizations for KSP and its DLC's are available through Steam:__
 [TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png "国语"
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+---
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/DropTanksIII "Drop Tanks III (DTIII)"
