@@ -4,18 +4,22 @@ title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!--
-Attributions.md v1.0.7.1
+Attributions.md v1.0.0.0
 Drop Tanks III (DTIII)
+created: 27 May 2023
+updated: 
+
+TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
-updated: 03 Jun 2022
--->
+updated: 15 Mar 2023
+
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Drop Tanks III (DTIII)
+# [Drop Tanks III (DTIII)][mod]
 
 [Home](./index.md)
 
@@ -24,76 +28,56 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/"><img border="0" alt="Enceos" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/dancing_cat-avatar.gif.db945a3aa9705efccf5e235458898d1c.thumb.gif.760e54706f08b3d3b5c5bf6284999e29.gif" width="50" height="50" > Enceos</a> for inspiring <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/" alt="Drop Tanks III (DTIII)">Drop Tanks III (DTIII)</a> addon!</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/"><img alt="Enceos" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/dancing_cat-avatar.gif.db945a3aa9705efccf5e235458898d1c.thumb.gif.760e54706f08b3d3b5c5bf6284999e29.gif" width="50" height="50" > Enceos</a> for inspiring <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/" alt="Drop Tanks III (DTIII)">Drop Tanks III (DTIII)</a> addon!</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
+### Reviews
+
+* none
+
 ### Flag(s)
 
-<ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/"><img border="0" alt="Enceos" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/dancing_cat-avatar.gif.db945a3aa9705efccf5e235458898d1c.thumb.gif.760e54706f08b3d3b5c5bf6284999e29.gif" width="50" height="50" > Enceos</a></li>
-</ul>
+* none
 
 ### Agency
 
-<ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/"><img border="0" alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50" height="50" > zer0Kerbal</a></li>
-</ul>
+* none
 
-### Special Thanks
+### Contract(s)
 
-<ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img border="0" alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
-  <li>Squad, for making such a great game!</li>
-  <li>Everyone else who made modding tutorials.</li>
-</ul>
+* none
 
 ### Translations
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:150%;" /> English</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png " alt="Dutch" style="zoom:150%;" /> Dutch - thank you to <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/104304-*/"><img border="0" alt="renejant" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-104304.jpg" width="25" height="25" > renejant</a> <i>(bedankt!)</i></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png " alt="Dutch" style="zoom:150%;" /> Dutch - thank you to <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/104304-*/"><img alt="renejant" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-104304.jpg" width="25" height="25" > renejant</a> <i>(bedankt!)</i></li>
   <li><small>Additions and corrections welcome!</small></li>
+</ul>
+<ul>
+
+### Special Thanks
+
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
+  <li>Squad, for making such a great game!</li>
+  <li>Everyone else who made modding tutorials.</li>
 </ul>
 
 ### Art Asset(s)
 
-* Flags
+* Hero Logo/Cover - All Rights Reserved
 
 ### Testing and Support
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-eightiesboi/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="50" height="50" > eightiesboi</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img border="0" alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50" height="50" > Zelda</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-eightiesboi/"><img alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="50" height="50" > eightiesboi</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50" height="50" > Zelda</a></li>
 </ul>
 
-<!-- links -->
-[DROP]: https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/ "Drop Tankss"
+---
 
-[enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "enceos"
-[cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
 
-<!-- Localization -->
-[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
-[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"  
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Português Brasil"
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png "中文"  
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png "Deutsch"  
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"  
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png "Français"  
-[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png "Italiano"  
-[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/JA.png "日本語"  
-[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/KO.png "한국어"  
-[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/MX.png "Mexicano Español"  
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png "Dutch"  
-[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png "Norsk"
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/PO.png "Polski"  
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"  
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/SW.png "Svenska"  
-[TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"  
-[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png "国语"
-
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/DropTanksIII "Drop Tanks III (DTIII)"

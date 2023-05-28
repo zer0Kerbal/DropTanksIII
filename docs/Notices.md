@@ -4,19 +4,21 @@ title: Legal Notices
 description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
 tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!--
-Notices.md v1.0.1.0
+Notices.md v1.0.0.0
 Drop Tanks III (DTIII)
-created: 13 Apr 2022
+created: 27 May 2023
 updated: 15 May 2022
+
+TEMPLATE: Notices.md v1.0.2.0
+created: 13 Apr 2022
+updated: 26 Apr 2023
 
 based upon work by LisiasT -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
-
-# Drop Tanks III (DTIII)
+# [Drop Tanks III (DTIII)][mod]
 
 [Home](./index.md)
 
@@ -26,7 +28,7 @@ based upon work by LisiasT -->
 * "Kerbal Hacks" is trademark of Enceos
 * "Kerbal Hacks Ltd" is trademark of zer0Kerbal
 * "Drop Tanks" is trademark of zer0Kerbal
-* "DROP"" is a trademark of zer0Kerbal
+* "DROP" and "DTIII" and "DT3" are trademarks of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * KerbSimpleCo is a trademark of zer0Kerbal
@@ -54,4 +56,9 @@ Other trademarks and registered trademarks are the property of the respective tr
 
 © 2011-2023 zer0Kerbal™
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+---
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/DropTanksIII "Drop Tanks III (DTIII)"
