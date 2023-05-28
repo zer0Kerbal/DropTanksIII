@@ -15,39 +15,89 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](http://github.com/zer0Kerbal)
 
+### Creation by [zer0Kerbal](http://github.com/zer0Kerbal)
+
 * 📌 Pinned
   * Dependencies:
     * [Kerbal Hacks Limited (KHL)](https://www.curseforge.com/kerbal/ksp-mods/kerbalhacksltd)
+  * search for `dt3` or `dtiii` in editors
 
 ### Change Summary 0.9.99.0
 
-* Add
-  * B9 Tank Switch (localized)
-    * thank you to [help137](https://github.com/help137)
-    * with SimpleConstruction! (SCON) tanks
-    * B9FuelSwitch.cfg - v1.0.0.0
-  * [ModuleCargoPart] to all parts
-* Update
-  * to ghostParts 2.0.1.0
-    * now cleans out FuelVolume from part.cfgs
-  * lint and documentation
-* final preparations for DropTanksIIIIII (DTIII)
+* NEW 3.75m (inner diameter) drop tanks
+  * TechRequired = advFuelSystems
+* English and Dutch localizations
+* Compatibility
+  * [B9FuelSwitch.cfg]
+  * [InterstellarFuelSwitch.cfg]
+  * [TweakScale.cfg]
+* Subject to change (K5 need input!!!)
+  * mass
+  * cost/entryCost
+  * capacity
+  * Decoupler: explosiveForce (eF)
+
+#### Specifications
+
+| 3.75      | mass (mt) | cost  | LF    | OX    | eF   |
+| --------- | --------- | ----- | ----- | ----- | ---- |
+| cap       | 0.625     | 10800 | 2673  | 3267  | 1250 |
+| bracelet  | 1.25      | 6000  | 5589  | 6831  | 1250 |
+| wristband | 2.25      | 35100 | 11178 | 13662 | 1250 |
+| wrapper   | 4.5       | 35100 | 22599 | 27621 | 1250 |
+| sleeve    | 9.0       | 8100  | 29160 | 35640 | 1250 |
+
+### Changes 0.9.99.0
+
+### Parts
+
+* Create five new parts (scaled)
+* DONE:
+  * inventory
+  * DRAG_CUBES
+
+### Compatibility 0.9.99.0
 
 * Create
   * [InterstellarFuelSwitch.cfg] v1.0.0.0
-  * [nl-nl.cfg] v1.0.0.0
-  * [en-us.cfg] v1.0.0.0
   * [B9FuelSwitch.cfg] v1.0.0.0
-  * [DropTanksIII] v1.0.0.0
-  * documentation
-* closes #22 - Dutch (Nederlands) <nl-nl.cfg>
-* closes #11 - English <en-us.cfg>
-* updates #10 - Localization - Master
-* closes #9 - Create <DropTanksIII.cfg>
-* closes #8 - Part Asset Updates
-* closes #7 - Create Localization directory and contents
-* closes #6 - Create HeroLogo.png
+
+### docs/ 0.9.99.0
+
+* Add
+  * [`_config.yml`]
+  * [Attribution.md] v1.0.7.1
+  * [ManualInstallation.md] v1.1.8.0
+  * [404.md] v1.0.3.2
+  * [LegalMumboJumbo.md] v1.0.5.1
+  * [Localizations.md] v1.1.7.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [Parts-Catalog.md] v1.1.4.1
+  * [Why.md] v1.1.0.0
 * closes #5 - Create GitHub Pages
+
+### Hero Logo 0.9.99.0
+
+* Create
+* closes #6 - Create HeroLogo.png
+
+### Localization 1.0.99.0
+
+* Add
+  * [DropTanksIII.cfg] v1.0.0.0
+    * adds localized tags to parts
+* Create
+  * Localization/
+    * <en-us.cfg> v1.0.0.0
+    * <nl-nl.cfg> v1.0.0.0 -bedankt! [renejant](https://github.com/renejant)
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+* closes #7 - Create Localization directory and contents
+* closes #9 - Create <DropTanksIII.cfg>
+* closes #11 - English <en-us.cfg>
+* closes #22 - Dutch (Nederlands) <nl-nl.cfg>
+* updates #10 - Localization - Master
 
 ### Issues 0.9.99.0
 
@@ -55,16 +105,6 @@
 * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
 * closes #3 - 1.1.99.0 Create Documentation
 * closes #4 - 1.1.99.0 Create Social Media Presence
-
-
+* closes #8 - Part Asset Updates
 
 ---
-
-* closes #22 - Dutch (Nederlands) <nl-nl.cfg>
-* updates #11 - English <en-us.cfg>
-* closes #10 - Localization - Master
-* closes #9 - Create <DropTanksIII.cfg>
-* closes #8 - Part Asset Updates
-* closes #7 - Create Localization directory and contents
-* closes #6 - Create HeroLogo.png
-* closes #5 - Create GitHub Pages
