@@ -47,6 +47,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 * [BUG] B9PartSwitch throws errors and crashes
   * needed to move the variable cleanup statement into own patch
+  * [B9FuelSwitch.cfg] - v1.0.2.0
 * closes #33 - [BUG] B9PartSwitch throws errors and crashes
 
 #### Localization 0.9.99.1
