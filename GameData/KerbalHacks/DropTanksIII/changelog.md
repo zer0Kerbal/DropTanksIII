@@ -8,6 +8,20 @@
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/DropTanksIII)           |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/DropTanksIII)         |
 
+## Version 0.9.99.1-prerelease - `<Спасибо evanisrael>` edition
+
+* Released
+  * 27 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](http://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [Kerbal Hacks Limited(KHL)](https://www.curseforge.com/kerbal/ksp-mods/kerbalhacksltd)
+  * search for `dt3` or `dtiii` in editors
+
+---
+
 ## Version 0.9.99.0-prerelease - `<Enceos Inspired>` edition
 
 * Released
