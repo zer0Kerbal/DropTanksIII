@@ -11,7 +11,7 @@
 ## Version 0.9.99.1-prerelease - `<Спасибо evanisrael>` edition
 
 * Released
-  * 27 May 2023
+  * 22 Jun 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](http://github.com/zer0Kerbal)
 
@@ -19,6 +19,52 @@
   * Dependencies:
     * [Kerbal Hacks Limited(KHL)](https://www.curseforge.com/kerbal/ksp-mods/kerbalhacksltd)
   * search for `dt3` or `dtiii` in editors
+
+### Change Summary 0.9.99.1
+
+* Fixed
+  * [BUG] B9PartSwitch throws errors and crashes
+  * needed to move the variable cleanup statement into own patch
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github/evanisrael)
+
+### Changes 0.9.99.1
+
+#### Compatibility 0.9.99.1
+
+* [BUG] B9PartSwitch throws errors and crashes
+  * needed to move the variable cleanup statement into own patch
+* closes #33 - [BUG] B9PartSwitch throws errors and crashes
+
+#### Localization 0.9.99.1
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+* closes #10 - Localization - Master
+* closes #18 - Russian (Русский) <ru.cfg>
+
+#### Documentation 0.9.99.1
+
+* Update
+  * [Attributions.md] v1.0.1.0
+  * [Localizations.md] v1.0.1.0
+  * [readme.md] v0.9.99.1
+  * [ReleaseLayout.md] 0.9.99.1
+
+### Issues 0.9.99.1
+
+* closes #31 - 0.9.99.1 Additional Tasks
+* closes #30 - Drop Tanks III (DTIII) 0.9.99.1-prerelease `<Спасибо evanisrael>` edition
 
 ---
 
