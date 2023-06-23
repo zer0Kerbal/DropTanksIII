@@ -1,7 +1,7 @@
-<!-- readme.md v1.0.0.0
+<!-- readme.md v1.0.2.0
 Drop Tanks III (DTIII)
 created: 06 Apr 2023
-updated: 
+updated: 20 Jun 2023
 
 TEMPLATE: readme.md v1.7.3.2
 created: 17 Jul 2017
@@ -18,13 +18,13 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <img src="https://thumbs.gfycat.com/DefiniteAcclaimedAlpaca-size_restricted.gif" alt="Rotating Nose Cap" width="35%" height="35%">
 
-## By [`zer0Kerbal`][zer0Kerbal], inspired by [`Enceos`][enceos]
+## By [`zer0Kerbal`][zer0Kerbal], inspired by [`Enceos`][Enceos]
 
 Created by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanksIII/master/img/HeroLogo.png" alt="Drop Tanks Hero" width="50%" height="50%">
 
-### Description by [Enceos][enceos]
+### Description by [Enceos][Enceos]
 
 > * It's always nice to add some extra fuel without adding much to the size of the spacecraft
 > * 4 different length plus cap
@@ -117,7 +117,7 @@ parts, resources, combat
 
 ### Credits and Special Thanks
 
-* [`Enceos`][enceos] for inspiring this glorious parts addon!
+* [`Enceos`][Enceos] for inspiring this glorious parts addon!
 * see [Attribution][attrb] for more
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -192,7 +192,7 @@ Comment, click, like, share, up-vote, subscribe
 [omm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
-[enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "Enceos"  
+[Enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "Enceos"  
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
